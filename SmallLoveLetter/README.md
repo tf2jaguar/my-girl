@@ -4,9 +4,9 @@
 
 Windows 10 （其他版本自测哈）
 
-## 功能实现
+## 操作步骤
 
-1. 解压文件。获得lnk.vbs，xqs.vbs，启动.bat三个文件。
+1. 获得lnk.vbs，xqs.vbs，启动.bat三个文件。先不要乱点，先不要乱点，先不要乱点，**请看完本文档**。
 2. 双击 启动.bat 将以管理员权限执行。
 > 文件xqs.vbs 将会被拷贝到 *D:\MyDocuments\Programmer\jelly* 
 > 将会创建一个快捷方式，用以启动 ‘小情书’ (稍后会自动删除)
